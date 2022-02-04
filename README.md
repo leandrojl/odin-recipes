@@ -1,6 +1,6 @@
-# **PROJECT: ETCH-A-SKETCH**
+# **PROJECT: ODIN RECIPES**
 
-This project it's oriented to flex DOM manipulation skills.
+This project it's oriented to flex front end skills.
 
 ## Languages and frameworks:
 
